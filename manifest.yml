@@ -10,7 +10,7 @@ declared-services:
   blinker-node-red-cloudantNoSQLDB:
     label: cloudantNoSQLDB
     plan:  Shared
-  blinker-iotf-service
+  blinker-iotf-service:
     label: iotf-service
     plan:  iotf-service-free
     
