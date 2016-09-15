@@ -1,5 +1,5 @@
 {
-    "name"         : "node-red-bluemix-starter",
+    "name"         : "node-red-blinker",
     "version"      : "0.4.25",
     "dependencies": {
         "when": "~3.x",
@@ -15,7 +15,13 @@
         "node-red-contrib-scx-ibmiotapp":"0.x",
         "node-red-contrib-ibmpush":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x",
-        "node-red-nodes-cf-sqldb-dashdb":"0.x"
+        "node-red-nodes-cf-sqldb-dashdb":"0.x",
+        "node-red-contrib-freeboard": "0.0.x",
+        "node-red-contrib-particle": "0.0.x",
+        "node-red-contrib-admin": "*",
+        "node-red-contrib-nest": "*",
+        "node-red-node-dropbox":"0.x"
+    },
     },
     "engines": {
         "node": "0.12.x"
