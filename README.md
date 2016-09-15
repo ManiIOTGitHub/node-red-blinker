@@ -2,7 +2,7 @@ Node-RED Bluemix Starter Application
 ====================================
 
 ### Node-RED in BlueMix - MODs for BLINKER by mvk20160924
-name changed , app.js - added mqtt client , api.js added websocket client
+name changed , app.js - added mqtt client , api.js added websocket client, flow changed
 
 This repository is an example Node-RED application that can be deployed into
 Bluemix with only a couple clicks. Try it out for yourself right now by clicking:
