@@ -21,7 +21,7 @@
         "node-red-contrib-admin": "*",
         "node-red-contrib-nest": "*",
         "node-red-node-dropbox":"0.x"
-    },
+    
     },
     "engines": {
         "node": "0.12.x"
