@@ -1,12 +1,12 @@
 Node-RED Bluemix Starter Application
 ====================================
 
-### Node-RED in BlueMix
+### Node-RED in BlueMix - MOD for BLINKER by mvk
 
 This repository is an example Node-RED application that can be deployed into
 Bluemix with only a couple clicks. Try it out for yourself right now by clicking:
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/node-red/node-red-bluemix-starter.git)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/markusvankempen/node-red-blinker.git)
 
 ### How does this work?
 
