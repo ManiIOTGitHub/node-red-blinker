@@ -5,7 +5,7 @@ applications:
   - blinker-node-red-cloudantNoSQLDB
   - blinker-iotf-service
   env:
-    NODE_RED_STORAGE_NAME: sample-node-red-cloudantNoSQLDB
+    NODE_RED_STORAGE_NAME: blinker-node-red-cloudantNoSQLDB
 declared-services:
   blinker-node-red-cloudantNoSQLDB:
     label: cloudantNoSQLDB
